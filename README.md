@@ -1,6 +1,8 @@
 # demo6
 
 > A Vue.js project
+# Chinese comment
+一个vue实习的个人网站,纪念我在昆船实习的一个月
 
 ## Build Setup
 
